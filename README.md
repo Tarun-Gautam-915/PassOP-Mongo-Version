@@ -132,4 +132,3 @@ Feel free to fork, contribute, or give a ⭐!
 ## 📜 License
 
 This project is licensed under the [MIT License](LICENSE).
-```
